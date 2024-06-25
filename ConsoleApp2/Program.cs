@@ -6,6 +6,7 @@
         {
             string hello = Console.ReadLine();
             Console.WriteLine(hello);
+            int a = 87;
 
         }
     }
